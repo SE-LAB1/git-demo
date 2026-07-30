@@ -1,2 +1,3 @@
 # git-demo
-this are some vhnges
+this are some new changes made 
+Hello from branch A
